@@ -1,0 +1,5 @@
+﻿fastapi_lab1_env/
+__pycache__/
+*.pyc
+*.pkl
+.ipynb_checkpoints/
